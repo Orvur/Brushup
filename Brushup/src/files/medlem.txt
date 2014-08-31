@@ -1,0 +1,23 @@
+191080-2255,Ørvur á Lad,Kagså Kollegiet 163,191080,60605915,orvur@hotmail.com,m,Passiv
+130584-9991,Peter Parker,Corner Web 7,130584,999-SPIDEY,8legs@webmail.com,M,Superhero
+121090-1146,Ulfred Balling,Halmballevej 88 ,121090,90551673,Ulfred90@gmail.com,m,Aktiv
+191080-2255,Ørvur á Lad,Kagså Kollegiet 163,191080,60605915,orvur@hotmail.com,m,Passiv
+130584-9991,Peter Parker,Corner Web 7,130584,999-SPIDEY,8legs@webmail.com,M,Superhero
+121090-1146,Ulfred Balling,Halmballevej 88 ,121090,90551673,Ulfred90@gmail.com,m,Aktiv
+191080-2255,Ørvur á Lad,Kagså Kollegiet 163,191080,60605915,orvur@hotmail.com,m,Passiv
+130584-9991,Peter Parker,Corner Web 7,130584,999-SPIDEY,8legs@webmail.com,M,Superhero
+121090-1146,Ulfred Balling,Halmballevej 88 ,121090,90551673,Ulfred90@gmail.com,m,Aktiv
+191080-2255,Ørvur á Lad,Kagså Kollegiet 163,191080,60605915,orvur@hotmail.com,m,Passiv
+130584-9991,Peter Parker,Corner Web 7,130584,999-SPIDEY,8legs@webmail.com,M,Superhero
+121090-1146,Ulfred Balling,Halmballevej 88 ,121090,90551673,Ulfred90@gmail.com,m,Aktiv
+191080-2255,Ørvur á Lad,Kagså Kollegiet 163,191080,60605915,orvur@hotmail.com,m,Passiv
+130584-9991,Peter Parker,Corner Web 7,130584,999-SPIDEY,8legs@webmail.com,M,Superhero
+121090-1146,Ulfred Balling,Halmballevej 88 ,121090,90551673,Ulfred90@gmail.com,m,Aktiv
+191080-2255,Ørvur á Lad,Kagså Kollegiet 163,191080,60605915,orvur@hotmail.com,m,Passiv
+130584-9991,Peter Parker,Corner Web 7,130584,999-SPIDEY,8legs@webmail.com,M,Superhero
+121090-1146,Ulfred Balling,Halmballevej 88 ,121090,90551673,Ulfred90@gmail.com,m,Aktiv
+191080-2255,Ørvur á Lad,Kagså Kollegiet 163,191080,60605915,orvur@hotmail.com,m,Passiv
+130584-9991,Peter Parker,Corner Web 7,130584,999-SPIDEY,8legs@webmail.com,M,Superhero
+121090-1146,Ulfred Balling,Halmballevej 88 ,121090,90551673,Ulfred90@gmail.com,m,Aktiv
+2,3,4,5,6,7,8,9,10
+191080-2255,Ørvur,á Lad,Kagså Kollegiet 163,60605915,orvur@hotmail.com,2,4,1,2
